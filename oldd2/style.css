@@ -1,0 +1,43 @@
+/* 
+    Document   : style
+    Created on : 23-dic-2010, 9:51:00
+    Author     : macbook
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#divimg {
+    clear: both;
+    float: left;
+    height: 128px;
+    width: 128px;
+    margin-top: 20px;
+    /*padding-right: 10px;*/
+    margin-left: 20px;
+}
+
+#divselect {
+    float: right;
+    height: 20px;
+    width: 400px;
+    /*margin-left: 15px;*/
+    font-family: 'Dosis', sans-serif;
+    padding-top: 20px;
+    vertical-align: middle;
+    color:#5a5a5a;
+}
+
+#divmaster {
+    display: table; 
+    background-color:#ededed; 
+    width: 550px;
+    margin: 0 auto;
+    border: 1px solid #a2abb3;
+    font-family: 'Dosis', sans-serif;
+}
+

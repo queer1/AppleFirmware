@@ -1,0 +1,11 @@
+.devices{
+	background: #ddd;
+	border-radius: 5px;
+	padding: 20px;
+	width: auto;
+	margin-bottom: 30px;
+}
+
+.container-fluid{
+	margin: 0 auto;
+}
